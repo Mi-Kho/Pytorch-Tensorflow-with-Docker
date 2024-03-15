@@ -1,10 +1,11 @@
 ### Pytorch & Tensorflow with Docker
 
+## Pytorch
+
 <div align="center">
   <img src="https://miro.medium.com/v2/resize:fit:1200/1*4br4WmxNo0jkcsY796jGDQ.jpeg">
 </div>
 
-## Pytorch
 
 PyTorch is an open-source machine learning library primarily developed by Facebook's AI Research lab (FAIR). It is widely used for various machine learning tasks such as natural language processing, computer vision, reinforcement learning, and more.
 
@@ -39,6 +40,7 @@ PyTorch has a large and active community of developers and researchers, which ha
 <div align="center">
   <img src="https://www.tensorflow.org/images/tf_logo_social.png">
 </div>
+
 
 TensorFlow is an open-source machine learning framework developed by Google Brain team. It is one of the most popular and widely used frameworks for building and deploying machine learning models, particularly deep learning models. TensorFlow provides a comprehensive ecosystem of tools, libraries, and resources to facilitate various machine learning tasks.
 
