@@ -1,4 +1,4 @@
-### Pytorch & Tensorflow with Docker
+# Pytorch & Tensorflow with Docker
 
 ## Pytorch
 
@@ -34,6 +34,9 @@ PyTorch is designed to be intuitive and easy to use, with a Pythonic interface t
 * Community and ecosystem
 
 PyTorch has a large and active community of developers and researchers, which has contributed to a rich ecosystem of libraries, tools, and pre-trained models.
+
+
+See [github repo](https://github.com/pytorch/pytorch) and [Pytorch website](https://pytorch.org/) for more information.
 
 ## TensorFlow
 
@@ -71,6 +74,7 @@ TensorFlow is designed to scale efficiently to handle large datasets and models.
 TensorFlow has a large and active community of developers, researchers, and practitioners who contribute to the framework's development and ecosystem. This community has created numerous libraries, tools, and pre-trained models that extend the functionality of TensorFlow and make it easier to use for various machine learning tasks.
 
 
+See the [github repo](https://github.com/tensorflow/tensorflow) and [tensorflow](https://www.tensorflow.org/) for more information.
 
 
 
