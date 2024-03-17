@@ -59,8 +59,6 @@ initially prepare host machine
 * install nvidia driver 
 
 ```
-#!/bin/bash 
-
 sudo apt-get update -y
 sudo apt-get install -y nvidia-driver-535 nvidia-utils-535
 
