@@ -56,16 +56,21 @@ This packages should be installed on Docker Container:
 
 Initially prepare host machine
 
-* install nvidia driver 
+* Install nvidia driver 
 
 ```
 sudo apt-get update -y
 sudo apt-get install -y nvidia-driver-535 nvidia-utils-535
 
 # REBOOT SYSTEM
+reboot
 
 sudo apt-mark hold nvdia-driver-535 
 
 ```
+* Build docker image in machine that docker is installed on it.
 
+```
+docker build .
 
+```
