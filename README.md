@@ -54,7 +54,7 @@ This packages should be installed on Docker Container:
 
 ## Getting Started 
 
-initially prepare host machine
+Initially prepare host machine
 
 * install nvidia driver 
 
